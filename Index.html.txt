@@ -137,8 +137,9 @@
 <section id="about">
   <h2>About Me</h2>
   
-    <p>  Hi, I'm Mohammed. I Edit and Create High-Quality Photo and Videos for Small Brands helping them to grow. </p>
-      <p>I also help them in managing their Social Media Account by posting regular Reels, Ads, Story, Posts etc. </p>
+    <p>  Hi, I'm Mohammed. I help individuals and businesses improve their online presence
+    through high-quality photo editing, professional video editing, and effective
+    social media management. I focus on delivering clean, engaging, and impactful content.</p>
 </section>
 
 <section id="services">
